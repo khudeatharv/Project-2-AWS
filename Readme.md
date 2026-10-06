@@ -161,7 +161,7 @@ This confirms that the EC2 instance can communicate with Amazon S3 using the per
 
 ### Evidence
 
-![AWS CLI S3 Access](screenshots/Login-SSH.png)
+![AWS CLI S3 Access](Screenshots/Login-SSH.png)
 
 ---
 
